@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ReactJS_To_Hybrid</string>
+    <string name="title_activity_main">ReactJS_To_Hybrid</string>
+    <string name="package_name">app.package_name.com</string>
+    <string name="custom_url_scheme">app.package_name.com</string>
+</resources>
