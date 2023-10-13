@@ -1,7 +1,7 @@
 {
   "appId": "app.package_name.com",
   "appName": "ReactJS_To_Hybrid",
-  "webDir": "build",
+  "webDir": "dist",
   "server": {
     "androidScheme": "https"
   }
